@@ -1,8 +1,8 @@
 {
   "metadata": {
     "name": "VlogTruyen",
-    "author": "ThichBayMau",
-    "version": 2,
+    "author": "Duy",
+    "version": 1,
     "source": "https://vlogtruyen58.com",
     "regexp": "vlogtruyen\\d+\\.com",
     "description": "Extension đọc truyện tranh từ VlogTruyen (Bản Full Tab)",
