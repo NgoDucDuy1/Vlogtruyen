@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "VlogTruyen",
+    "author": "Duy",
+    "version": 1,
+    "source": "https://vlogtruyen58.com",
+    "regexp": "vlogtruyen\\d+\\.com",
+    "description": "Biết gì mà nói",
+    "locale": "vi_VN",
+    "tag": "",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
